@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Página de Tributo: Charlie Brown Jr.</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Cabeçalho -->
+         <div class="header">
+            <h1 class="main-title">Charlie Brown Jr.</h1>
+            <p class="main-paragraph">Uma banda brasileira de Rock formada em Santos</p>
+         </div>
+        <!-- Imagem de destaque -->
+        <div class="featured-image">
+            <figure>
+                <img src="img/CBJr.jpeg" alt="A banda Charlie Brown Jr." />
+                <figcaption>Integrantes da banda</figcaption>
+            </figure>
+        </div>
+        <!-- Biografia -->
+         <div class="biography-container">
+            <h2>Sobre os anos iniciais da banda</h2>
+            <p>
+               Em 1992 na cidade de Santos
+               <span class="bold">A banda foi criada por Chorão (vocal), Champignon (baixo), Marcão Britto (guitarra), Thiago Castanho (guitarra) e Renato Pelado (bateria)</span>., a história da banda começou quando Chorão se mudou para Santos em 1987 e começou a se envolver com o skate e a música. 
+            </p>
+            <p>
+                Ele foi descoberto por um amigo enquanto cantava em um bar, o que o levou a formar a banda. O nome <span class="bold">"Charlie Brown Jr." só foi escolhido pouco tempo após a formação clássica da banda, quando Chorão atropelou uma barraca de água de coco com o desenho do personagem Charlie Brown</span>. O "Jr." foi acrescido, nas palavras de Chorão, "pelo fato de sermos filhos do rock", inspirado por músicos do rock brasileiro à época como Raimundos, O Rappa, Nação Zumbi e Planet Hemp. A sonoridade do grupo tinha influências de grupos como Blink-182, Sublime, Bad Brains, 311, Rage Against the Machine, NOFX e Suicidal Tendencies, misturando hardcore, skate punk, reggae e ska. 
+            </p>
+            <p>
+                A banda misturou elementos de skate punk, nu metal, hardcore melódico, rock alternativo, rap rock, funk rock, ska punk e reggae, conquistando milhares de fãs pelo Brasil. 
+            </p>
+            <p>
+                Em 1995, já com o nome <span class="bold">Charlie Brown Jr.</span>, a banda gravou sua segunda demo.
+            </p>
+              <p>
+                Em 1993, Charlie Brown Jr. começou a se destacar em Santos, graças ao apoio de amigos como Pepinho Macia, da loja Metal Rock. Pepinho inscreveu a banda no festival da Move’s Bar, onde terminaram em terceiro lugar. Devido à idade, Champignon precisava de uma autorização judicial para se apresentar nas casas noturnas. Nesse período, ele começou a namorar a cunhada do produtor musical Tadeu Patolla. Impressionado com o potencial da banda, Patolla apresentou uma fita demo a Rick Bonadio, então presidente da Virgin Records no Brasil. Bonadio gostou e contratou a banda.
+                O álbum Transpiração Contínua Prolongada, lançado em 1997, foi produzido por Patolla e Bonadio, vendendo cerca de 500 mil cópias. Faixas como "O Coro Vai Comê!", "Proibida pra Mim (Grazon)", "Tudo que Ela Gosta de Escutar" e "Quinta-Feira" foram bem recebidas pelas rádios. A primeira aparição na TV nacional ocorreu em 24 de junho de 1997, no Programa Livre, do SBT.  
+            </p>
+         </div>
+        <!-- Container de citação -->
+        <div class="quotes-container">
+            <blockquote>
+                "SK8 na veia dos irmão! Aí, agente tá muito feliz, eu queria dizer que agente apesar de ter ganho , não é melhor do que ninguém e nem se acha melhor do que ninguém que tá aí competindo ou que tá aí no começo, que tá na batalha. Que todo mundo que batalhar sério e não se deixar vencer, vai conseguir. Muito obrigado a todo mundo!! Minha cara é essa mesma, num mundo de nome, quando eu falo que o coro vai come, ele come!!!! Muito obrigado! Muito Obrigado! muito obrigado! Principalmente ao nosso público! Valeu MTV! Valeu Brasil! Valeu! Valeu!Valeu!!""
+            </blockquote>
+            <p>Chorão</p>
+        </div>
+        <!-- Curiosidades -->
+        <div class="curiosities-container">
+            <h2>Curiosidades da banda:</h2>
+            <ul>
+                <li>O líder da banda, Chorão, é skatista, chegando a figurar nas melhores posições do ranking de diversos campeonatos brasileiros, e costuma apresentar-se nos shows em cima de um skate. Por volta de 1993, já com esta formação da banda, eles começaram a tocar no circuito underground de Santos e São Paulo e a fazer shows em vários eventos de skate.</li>
+                <li>O último registro da banda é o disco ao vivo "Música Popular Caiçara", que saiu no ano 2012 e marcou a volta dos integrantes Marcão e Champignon à banda, que haviam deixado o grupo em 2005.</li>
+                <li>Antes de ser músico, Chorão era skatista profissional. Ele conquistou o terceiro lugar nos campeonatos brasileiros de 1987 e 1988. Além disso, o vocalista também já trabalhou como corretor, cableman e iluminador.</li>
+                <li>O verdadeiro nome do chorão é <span class="bold">Luiz Carlos Leão Duarte Junior</span>.</li>
+                <li>O grupo vendeu mais de 5 milhões de discos e, em 2009, ganhou um Grammy Latino com o álbum "Camisa 10 Joga Bola Até na Chuva".</li>
+            </ul>
+        </div>
+        <!-- Segunda Citação -->
+        <div class="quotes-container">
+            <blockquote>
+                "Que bom viver, <br /> 
+                como é bom sonhar <br />
+                E o que ficou pra trás passou e eu não me importei <br />
+                Foi até melhor, <br />
+                tive que pensar em algo novo que fizesse sentido"
+            </blockquote>
+            <p>Charlie Brown Jr. - Lugar ao Sol</p>
+        </div>
+        <!-- Segunda Imagem -->
+         <div class="img-bold">
+            <figure>
+                <img src="img/CBJr Show.jpeg" alt="Charlie Brown Jr. em um show" />
+                <figcaption> Chorão no comando </figcaption>
+            </figure>
+         </div>
+        <!-- Mais informações -->
+         <div class="moreinfo-container">
+            <h2>Mais informações:</h2>
+            <p>
+                Você pode conhecer mais sobre a banda
+                <a href="https://www.instagram.com/charliebrownjr/?hl=pt"
+                    >clicando aqui</a
+                >
+            </p>
+         </div>
+    </div>
+</body>
+</html>
